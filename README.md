@@ -4,6 +4,10 @@ This repo contains some of the papers I have read in the past or plan in read in
 
 ## Variational Inference
 ### 2019
+[BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](https://arxiv.org/abs/1902.02102) on NeurIPS 2019
+[The Usual Suspects? Reassessing Blame for VAE Posterior Collapse](https://arxiv.org/abs/1912.10702) on ICLR 2020
+[Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/abs/1901.05534) on ICLR 2019
+[Understanding Posterior Collapse in Generative Latent Variable Models](https://openreview.net/forum?id=r1xaVLUYuE) on ICLR 2019
 [Amortized Population Gibbs Samplers with Neural Sufficient Statistics](https://arxiv.org/abs/1911.01382v1)  
 [Hierarchical Importance Weighted Autoencoders](https://arxiv.org/abs/1905.04866v1) on ICML 2019   
 [Block Neural Autoregressive Flow](https://arxiv.org/abs/1904.04676v1)  
@@ -17,6 +21,10 @@ This repo contains some of the papers I have read in the past or plan in read in
 [Annealed Importance Weighted Auto-Encoders](https://arxiv.org/abs/1906.04904)
 
 ### 2018
+[A Hierarchical Latent Structure for Variational Conversation Modeling](https://arxiv.org/abs/1804.03424)
+[Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects](http://papers.nips.cc/paper/8079-sequential-attend-infer-repeat-generative-modelling-of-moving-objects.pdf) on NeurIPS 2018
+[Variational Autoencoders Pursue PCA Directions (by Accident)](https://arxiv.org/abs/1812.06775) on CVPR 2019
+[Preventing Posterior Collapse with delta-VAEs](https://openreview.net/forum?id=BJe0Gn0cY7) on ICLR 2019
 [Variational Rejection Sampling](https://arxiv.org/abs/1804.01712v1) on AISTATS 2018  
 [VAE with a VampPrior](https://arxiv.org/abs/1705.07120v5) on AISTATS 2018  
 [Importance Weighting and Variational Inference](https://arxiv.org/abs/1808.09034) on NIPS 2018  
@@ -33,6 +41,7 @@ This repo contains some of the papers I have read in the past or plan in read in
 [Variational Inference using Implicit Distributions](https://arxiv.org/abs/1702.08235)  
 
 ### 2016
+[Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575) on CVPR 2016
 [Hierarchical Variational Models](https://arxiv.org/abs/1511.02386) on JMLR 2016  
 [The Generalized Reparameterization Gradient](https://arxiv.org/abs/1610.02287) on NIPS 2016  
 [Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms](https://arxiv.org/abs/1610.05683) on AISTATS 2017  
