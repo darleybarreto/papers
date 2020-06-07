@@ -3,6 +3,7 @@ This repo contains some of the papers I have read in the past or plan in read in
 
 ## General
 ### 2020
+[Implicit Geometric Regularization for Learning Shapes](https://arxiv.org/abs/2002.10099)  
 [LaProp: a Better Way to Combine Momentum with Adaptive Gradient](https://arxiv.org/abs/2002.04839)  
 
 ### 2019
@@ -79,6 +80,8 @@ This repo contains some of the papers I have read in the past or plan in read in
 
 ## Neural Flows
 ### 2020
+[You say Normalizing Flows I see Bayesian Networks](https://arxiv.org/abs/2006.00866)  
+[Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913)  
 [Exact Information Bottleneck with Invertible Neural Networks: Getting the Best of Discriminative and Generative Modeling](https://arxiv.org/abs/2001.06448)  
 [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336)  
 [Stochastic Normalizing Flows](https://arxiv.org/abs/2002.09547)[1]  
